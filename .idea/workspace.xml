@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f89c87-bf85-4b3e-a7dd-08ed192d12ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/662.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/681.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/projects_cf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projects_cf.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict_mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict_mine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/int.py" beforeDir="false" afterPath="$PROJECT_DIR$/int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/706.py" beforeDir="false" afterPath="$PROJECT_DIR$/706.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,24 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.681.executor": "Run",
-    "Python.dict_mine.executor": "Run",
-    "Python.int.executor": "Run",
-    "Python.random_num_guess.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dheer/Documents/projects_py_cc",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.681.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_mine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_num_guess.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dheer/Documents/projects_py_cc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +81,8 @@
       <workItem from="1715620866144" duration="28000" />
       <workItem from="1715620895029" duration="4076000" />
       <workItem from="1715701235478" duration="1180000" />
-      <workItem from="1715704461817" duration="4504000" />
+      <workItem from="1715704461817" duration="8823000" />
+      <workItem from="1716219380893" duration="1242000" />
     </task>
     <servers />
   </component>
